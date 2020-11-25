@@ -1,0 +1,16 @@
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.exe
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.deps.json
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.runtimeconfig.json
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.runtimeconfig.dev.json
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ref\ConnectBackPayload.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\ConnectBackPayload.pdb
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.csprojAssemblyReference.cache
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.AssemblyInfoInputs.cache
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.AssemblyInfo.cs
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.csproj.CoreCompileInputs.cache
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ref\ConnectBackPayload.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.pdb
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\obj\Debug\net5.0\ConnectBackPayload.genruntimeconfig.cache

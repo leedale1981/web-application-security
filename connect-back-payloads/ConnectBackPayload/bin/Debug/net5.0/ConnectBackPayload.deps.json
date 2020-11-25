@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConnectBackPayload/1.0.0": {
+        "runtime": {
+          "ConnectBackPayload.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectBackPayload/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
