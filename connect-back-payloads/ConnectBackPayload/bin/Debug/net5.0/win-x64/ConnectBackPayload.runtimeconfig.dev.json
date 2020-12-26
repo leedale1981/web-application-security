@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/omoton/.dotnet/store/|arch|/|tfm|",
+      "/home/omoton/.nuget/packages"
+    ]
+  }
+}

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fzNiUjniiKWjN5jHTBWUDyQGVOPRE4mqxFmGtsrITse/YfMUhAWRVExPHybiRWszvrmOp5Ujw2vWYCFv3fla/g==",
+  "dgSpecHash": "fAamtnLyLMdy6HTseIo4HWFb9605BijWCEQmeDY9kRo0ipJNJoGsPKAVf9XGLw0TMw0ruFiwClmVB3xuO2sPrw==",
   "success": true,
-  "projectFilePath": "D:\\src\\web-application-security\\connect-back-payloads\\ConnectBackPayload\\ConnectBackPayload.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/omoton/src/web-application-security/connect-back-payloads/ConnectBackPayload/ConnectBackPayload.csproj",
+  "expectedPackageFiles": [
+    "/home/omoton/.nuget/packages/microsoft.netcore.app.runtime.win-x64/5.0.0/microsoft.netcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/5.0.0/microsoft.aspnetcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.0/microsoft.netcore.app.host.win-x64.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
