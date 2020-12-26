@@ -1,0 +1,5 @@
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\win-x64\publish\clrcompression.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\win-x64\publish\clrjit.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\win-x64\publish\coreclr.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\win-x64\publish\mscordaccore.dll
+D:\src\web-application-security\connect-back-payloads\ConnectBackPayload\bin\Debug\net5.0\win-x64\publish\ConnectBackPayload.exe

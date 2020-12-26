@@ -9,24 +9,33 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/omoton/.nuget/packages/": {}
+    "C:\\Users\\leedale1981\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/omoton/src/web-application-security/connect-back-payloads/ConnectBackPayload/ConnectBackPayload.csproj",
+      "projectUniqueName": "D:\\src\\web-application-security\\connect-back-payloads\\ConnectBackPayload\\ConnectBackPayload.csproj",
       "projectName": "ConnectBackPayload",
-      "projectPath": "/home/omoton/src/web-application-security/connect-back-payloads/ConnectBackPayload/ConnectBackPayload.csproj",
-      "packagesPath": "/home/omoton/.nuget/packages/",
-      "outputPath": "/home/omoton/src/web-application-security/connect-back-payloads/ConnectBackPayload/obj/",
+      "projectPath": "D:\\src\\web-application-security\\connect-back-payloads\\ConnectBackPayload\\ConnectBackPayload.csproj",
+      "packagesPath": "C:\\Users\\leedale1981\\.nuget\\packages\\",
+      "outputPath": "D:\\src\\web-application-security\\connect-back-payloads\\ConnectBackPayload\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/omoton/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\leedale1981\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,15 +66,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.0, 5.0.0]"
+            "version": "[5.0.1, 5.0.1]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[5.0.0, 5.0.0]"
+            "version": "[5.0.1, 5.0.1]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[5.0.1, 5.0.1]"
           }
         ],
         "frameworkReferences": {
@@ -73,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

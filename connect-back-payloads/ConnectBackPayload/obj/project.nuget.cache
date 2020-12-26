@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fAamtnLyLMdy6HTseIo4HWFb9605BijWCEQmeDY9kRo0ipJNJoGsPKAVf9XGLw0TMw0ruFiwClmVB3xuO2sPrw==",
+  "dgSpecHash": "zwW8nhFpK8tD0aiyrIP+7RTi/rJTfGgd8x6WnUu9+REJv+geX8qK9cOLIqnAdUEbx7LTrTBDMx/QW/vKLhErrw==",
   "success": true,
-  "projectFilePath": "/home/omoton/src/web-application-security/connect-back-payloads/ConnectBackPayload/ConnectBackPayload.csproj",
+  "projectFilePath": "D:\\src\\web-application-security\\connect-back-payloads\\ConnectBackPayload\\ConnectBackPayload.csproj",
   "expectedPackageFiles": [
-    "/home/omoton/.nuget/packages/microsoft.netcore.app.runtime.win-x64/5.0.0/microsoft.netcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
-    "/home/omoton/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/5.0.0/microsoft.aspnetcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
-    "/home/omoton/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.0/microsoft.netcore.app.host.win-x64.5.0.0.nupkg.sha512"
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.1\\microsoft.netcore.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.1\\microsoft.aspnetcore.app.runtime.win-x64.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
